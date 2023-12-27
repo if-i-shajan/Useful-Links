@@ -1,6 +1,5 @@
 # Useful-Links
-# awesome-computer-science-opportunities
-An awesome list of events and fellowship opportunities for computer science students
+An awesome list of events and fellowship opportunities
 
 ## Contents
 
