@@ -1,5 +1,5 @@
 # Useful-Links
-An awesome list of events and fellowship opportunities
+An awesome list of events and fellowship opportunities is here..
 
 ## Contents
 
